@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/emoton/static/css/main.f51d5156.css",
-    "main.js": "/emoton/static/js/main.4ea686a3.js",
+    "main.js": "/emoton/static/js/main.02adbb0d.js",
     "static/js/363.82d70f79.chunk.js": "/emoton/static/js/363.82d70f79.chunk.js",
     "static/js/519.c969f080.chunk.js": "/emoton/static/js/519.c969f080.chunk.js",
-    "static/js/564.468119b3.chunk.js": "/emoton/static/js/564.468119b3.chunk.js",
+    "static/js/564.654cf91c.chunk.js": "/emoton/static/js/564.654cf91c.chunk.js",
     "static/js/752.39b20943.chunk.js": "/emoton/static/js/752.39b20943.chunk.js",
     "static/js/381.d2dc1203.chunk.js": "/emoton/static/js/381.d2dc1203.chunk.js",
     "static/js/44.c6194544.chunk.js": "/emoton/static/js/44.c6194544.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/985.5cba3a3e.chunk.js": "/emoton/static/js/985.5cba3a3e.chunk.js",
     "static/js/900.45549d83.chunk.js": "/emoton/static/js/900.45549d83.chunk.js",
     "static/js/224.57e95aa6.chunk.js": "/emoton/static/js/224.57e95aa6.chunk.js",
-    "static/js/433.c79296e1.chunk.js": "/emoton/static/js/433.c79296e1.chunk.js",
+    "static/js/433.9b02adba.chunk.js": "/emoton/static/js/433.9b02adba.chunk.js",
     "static/js/750.196b619d.chunk.js": "/emoton/static/js/750.196b619d.chunk.js",
     "static/js/825.ac95f0c2.chunk.js": "/emoton/static/js/825.ac95f0c2.chunk.js",
     "static/js/373.892f1cd9.chunk.js": "/emoton/static/js/373.892f1cd9.chunk.js",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.4ea686a3.js"
+    "static/js/main.02adbb0d.js"
   ]
 }
